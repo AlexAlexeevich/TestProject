@@ -4,5 +4,6 @@ public class Main {
         System.out.println(5 + 5);
         NewTestClass newTestClass = new NewTestClass();
         newTestClass.setI(90);
+        System.out.println("Hello");
     }
 }
