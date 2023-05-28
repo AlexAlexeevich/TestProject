@@ -6,5 +6,6 @@ public class Main {
         newTestClass.setI(90);
         System.out.println("Hello");
         System.out.println("Hello");
+        System.out.println("Hello");
     }
 }
